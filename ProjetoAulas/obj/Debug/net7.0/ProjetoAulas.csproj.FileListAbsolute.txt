@@ -1,0 +1,15 @@
+C:\Projetos\C#\projetoaulas\bin\Debug\net7.0\ProjetoAulas.exe
+C:\Projetos\C#\projetoaulas\bin\Debug\net7.0\ProjetoAulas.deps.json
+C:\Projetos\C#\projetoaulas\bin\Debug\net7.0\ProjetoAulas.runtimeconfig.json
+C:\Projetos\C#\projetoaulas\bin\Debug\net7.0\ProjetoAulas.dll
+C:\Projetos\C#\projetoaulas\bin\Debug\net7.0\ProjetoAulas.pdb
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.csproj.AssemblyReference.cache
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.AssemblyInfoInputs.cache
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.AssemblyInfo.cs
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.dll
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\refint\ProjetoAulas.dll
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.pdb
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ProjetoAulas.genruntimeconfig.cache
+C:\Projetos\C#\projetoaulas\obj\Debug\net7.0\ref\ProjetoAulas.dll
